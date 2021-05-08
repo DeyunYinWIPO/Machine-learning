@@ -4,4 +4,4 @@ This is a sample code for predicating innovation performance based on machine-le
 
 - Check the [code](./code/model_selection.ipynb) here
 
-- Results are stored in result](./result)
+- Results are stored in [result](./result)
