@@ -1,6 +1,10 @@
 # Machine-learning
+
 This is code for predicating innovation performance index based on machine-learning algorithms
 
-Input  data: 
+- [*code**](./code/Model Selection.ipynb)
 
-Output:  
+- Results are stored [**result**](./result): 
+
+- **data**: 
+
